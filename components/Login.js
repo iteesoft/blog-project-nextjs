@@ -3,6 +3,7 @@ import Image from 'next/image';
 import {signIn} from 'next-auth/react'
 
 const Login = () => {
+    
     return (
         <div className="flex flex-col items-center mx-auto">
             <p>Welcome to facebook clone</p>

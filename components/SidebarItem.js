@@ -9,5 +9,4 @@ const SidebarItem = ({Icon, value}) => {
         </div>
     )
 }
-
 export default SidebarItem
